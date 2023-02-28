@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- (c) ammap.com | SVG map of Afghanistan - Low -->
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:amcharts="http://amcharts.com/ammap" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 2377 1846">
 	<defs>
 		<style type="text/css">
 			.land
@@ -13,8 +12,7 @@
 			}
 		</style>
 
-		<amcharts:ammap projection="mercator" leftLongitude="60.517000" topLatitude="38.490877" rightLongitude="74.889862" bottomLatitude="29.377200"></amcharts:ammap>
-
+	
 		<!-- All areas are listed in the line below. You can use this list in your script. -->		<!--{id:"AF-PIA"},{id:"AF-WAR"},{id:"AF-SAM"},{id:"AF-PAR"},{id:"AF-LOG"},{id:"AF-LAG"},{id:"AF-PAN"},{id:"AF-KAP"},{id:"AF-KAB"},{id:"AF-BGL"},{id:"AF-TAK"},{id:"AF-NAN"},{id:"AF-KDZ"},{id:"AF-KNR"},{id:"AF-NUR"},{id:"AF-BDS"},{id:"AF-PKA"},,{id:"AF-KHO"},{id:"AF-GHA"},{id:"AF-ZAB"},{id:"AF-KAN"},{id:"AF-DAY"},{id:"AF-URU"},{id:"AF-NIM"},{id:"AF-HEL"},{id:"AF-FRA"},{id:"AF-SAR"},{id:"AF-GHO"},{id:"AF-JOW"},{id:"AF-FYB"},{id:"AF-BAL"},{id:"AF-BAM"},{id:"AF-HER"},{id:"AF-BDG"}-->
 
 
